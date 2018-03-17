@@ -1,0 +1,187 @@
+.navbar{
+	margin-bottom: 0px;
+}
+.navba1{
+	padding: 20px 100px;
+	background-color: #ffffff
+}
+.line{
+	border-right: 1px solid #5d6c6c;
+}
+.change3{
+	border: 0px;
+	background: transparent;
+}
+.adjust-icon1{
+	padding-left:0px;
+	padding-top: 0px;
+	font-size: 60px;
+	color: white;
+}
+.change4{
+	border: 0px;
+	background: transparent;
+	text-align: left;
+	padding-top: 40px;
+	padding-left: 0px;
+	font-size: 17px;
+	color: white;
+	box-shadow: none;
+}
+.inostrike{
+	background-image: url("../img/untitled3.png");
+	background-repeat: repeat;
+	background-size: cover;
+	background-position: center;
+	padding-top: 90px;
+	padding-bottom: 87px;
+}
+.newchange{
+	margin-bottom: 0px;
+}
+.center{
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+.tall{
+	height: 50px; 
+	width: 150px;
+}
+.baton2{
+	margin-left: 42%;
+	background-color: 
+}
+.row1{
+	margin-left: 0;
+	margin-right: 0;
+	text-align: center;
+	padding: 0px;
+}
+.row2{
+	text-align: center;
+}
+.neo{
+	padding-right: 0px;
+	padding-left: 0px;
+}
+.neo2{
+	padding: 0px;
+}
+.white{
+	color: white;
+	padding-left: 42%;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	width: 100%;
+}
+.icon1{
+	color: white;
+	padding-left: 42%;
+	display: inline-block;
+}
+.about{
+	padding-top: 10px;
+}
+.adjust-icon{
+	padding-left:0px;
+	padding-top: 0px;
+	font-size: 80px;
+}
+.icon2{
+	background-color: #2d6e7a;
+	padding: 20px;
+}
+.icon3{
+	background-color: #0d94ac;
+	padding: 20px;
+}
+.icon4{
+	background-color: #237688;
+	padding: 20px;
+}
+.icon5{
+	background-color: #3d95a5;
+	padding: 20px;
+}
+.icon6{
+	background-color: #7bb0b8;
+	padding: 20px;
+}
+.icon7{
+	background-color: #33d3cd;
+	padding: 20px;
+}
+.icon8{
+	background-color: #31dabc;
+	padding-top: 120px;
+	padding-bottom: 120px;
+	color: white;
+}
+.wide{
+	padding: 0px;
+}
+.wide1{
+	padding: 0px;
+}
+.wide2{
+	padding: 0px 0px 0px 0px;
+}
+.wide3{
+	margin: 0px;
+}
+.white2{
+	padding-left: 48%;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-top: 185px;
+	padding-bottom: 218px;
+	color: white;
+}
+.white2 h1{
+	margin-top: 0px;
+}
+.change{
+	background-color: #31dabc;
+	border-radius: 0px;
+	border: 0px;
+	margin-right: 0px;
+	color: white;
+}
+.change1{
+	background-color: #15cdb1;
+	border-radius: 0px;
+	border: 0px;
+	margin-left: 0px;
+	color: white;
+}
+.edit-icon{
+	font-size: 200px;
+}
+.sixty{
+	color: #31dabc;
+	font-size: 200px;
+	font-weight: 800;
+	margin: 0px;
+}
+.project{
+	color: #31dabc;
+	font-size: 70px;
+}
+.twostrike{
+	background-image: url("../img/copyapp.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+.baton{
+	margin-bottom: 24px;
+}
+.finis{
+	padding-top: 25px;
+	padding-bottom: 10px;
+	margin: 0px;
+	text-align: center;
+	border-top: 1px solid #e5eded;
+	color: #879c9c;
+}
